@@ -12,7 +12,9 @@
 
 ## About me
 ![~](https://media.discordapp.net/attachments/595326600904572948/1063711857606672504/computersmall.png) **Female**
+
 ![~](https://media.discordapp.net/attachments/595326600904572948/1063711857606672504/computersmall.png) **17**
+
 ![~](https://media.discordapp.net/attachments/595326600904572948/1063711857606672504/computersmall.png) **College Student**
 
 ![~](https://media.discordapp.net/attachments/595326600904572948/1063711857606672504/computersmall.png)![~](https://media.discordapp.net/attachments/595326600904572948/1063711857606672504/computersmall.png)![~](https://media.discordapp.net/attachments/595326600904572948/1063711857606672504/computersmall.png)![~](https://media.discordapp.net/attachments/595326600904572948/1063711857606672504/computersmall.png)![~](https://media.discordapp.net/attachments/595326600904572948/1063711857606672504/computersmall.png)![~](https://media.discordapp.net/attachments/595326600904572948/1063711857606672504/computersmall.png)![~](https://media.discordapp.net/attachments/595326600904572948/1063711857606672504/computersmall.png)![~](https://media.discordapp.net/attachments/595326600904572948/1063711857606672504/computersmall.png)![~](https://media.discordapp.net/attachments/595326600904572948/1063711857606672504/computersmall.png)![~](https://media.discordapp.net/attachments/595326600904572948/1063711857606672504/computersmall.png)![~](https://media.discordapp.net/attachments/595326600904572948/1063711857606672504/computersmall.png)![~](https://media.discordapp.net/attachments/595326600904572948/1063711857606672504/computersmall.png)![~](https://media.discordapp.net/attachments/595326600904572948/1063711857606672504/computersmall.png)![~](https://media.discordapp.net/attachments/595326600904572948/1063711857606672504/computersmall.png)![~](https://media.discordapp.net/attachments/595326600904572948/1063711857606672504/computersmall.png)![~](https://media.discordapp.net/attachments/595326600904572948/1063711857606672504/computersmall.png)![~](https://media.discordapp.net/attachments/595326600904572948/1063711857606672504/computersmall.png)![~](https://media.discordapp.net/attachments/595326600904572948/1063711857606672504/computersmall.png)![~](https://media.discordapp.net/attachments/595326600904572948/1063711857606672504/computersmall.png)![~](https://media.discordapp.net/attachments/595326600904572948/1063711857606672504/computersmall.png)![~](https://media.discordapp.net/attachments/595326600904572948/1063711857606672504/computersmall.png)![~](https://media.discordapp.net/attachments/595326600904572948/1063711857606672504/computersmall.png)
@@ -20,8 +22,11 @@
 ***I Know..*** 
 
 ![~](https://media.discordapp.net/attachments/595326600904572948/1063711857606672504/computersmall.png) **Lua(Roblox)**
+
 ![~](https://media.discordapp.net/attachments/595326600904572948/1063711857606672504/computersmall.png) **Java & Spigot API**
+
 ![~](https://media.discordapp.net/attachments/595326600904572948/1063711857606672504/computersmall.png) **Discord.js**
+
 ![~](https://media.discordapp.net/attachments/595326600904572948/1063711857606672504/computersmall.png) **C#**
 
 ***All of these I know to varying degrees ; my most known is Java***
