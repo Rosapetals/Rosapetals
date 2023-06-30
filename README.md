@@ -16,7 +16,7 @@
 
 
 
-Hi! I'm a 17 year old female who just likes to learn some things about coding. My birthday is June 15, I was born in LA, but I'm practically a born and raised Texan. I enjoy working with the Spigot API, but I'm dabbling into C# and making some real games, which hopefully I'll be able to learn more about soon. I enjoy just doing projects for fun and challenging myself. I believe coding is an ONGOING learning experience because you never stop learning. I have dabbled into Roblox Lua, Java, discord.js, and C#.
+Hi! I'm an 18 year old female who just likes to learn some things about coding. My birthday is June 15, and I live in Texas. I enjoy working with the Spigot API, but I'm dabbling into C# and making some real games, which hopefully I'll be able to learn more about soon. I enjoy just doing projects for fun and challenging myself. I believe coding is an ONGOING learning experience because you never stop learning. I have dabbled into Roblox Lua, Java, discord.js, and C#.
 
 
 
